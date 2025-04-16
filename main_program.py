@@ -1,2 +1,3 @@
-#This is test commit # 1
-print("hello world")
+#This is test commit # 2
+planet = "world"
+print(f"hello {planet}")
